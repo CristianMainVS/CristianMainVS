@@ -5,3 +5,12 @@
 # Hola 👋, Soy Cristian
 
 </div>
+
+
+<div align="center">
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,github)](https://skillicons.dev)
+
+
+</div>
