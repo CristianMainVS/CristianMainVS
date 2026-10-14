@@ -4,9 +4,7 @@
 
 # Hola 👋, Soy Cristian
 
-<div align="center">
-  <img src="assets/titulo.svg" alt="Hola, soy Cris" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consola&pause=1000&color=FFFFFF&width=435&lines=Sobre+Mi)](https://git.io/typing-svg)
 
 Estudiante de segundo curso de Desarrollo de Aplicaciones Web (DAW) y desarrollador web con pasión por el frontend y el diseño.
 Me gusta construir interfaces cuidadas, minimalistas y funcionales, y seguir mejorando mi comprensión de cómo se construye un producto web real, de principio a fin.
