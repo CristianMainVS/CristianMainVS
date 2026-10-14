@@ -9,8 +9,9 @@
 
 <div align="center">
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,github)](https://skillicons.dev)
+# Conocimientos 🧑‍💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,vscode,windows)](https://skillicons.dev)
 
 
 </div>
