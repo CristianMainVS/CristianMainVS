@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="ascihand-removebg-preview.png" alt="Banner" width="80%" />
+<img src="ascihand-removebg-preview.png" alt="Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=50&lines=Hola👋%F0%9F%91%8B%2C+Soy+Cristian" alt="Hola 👋, soy Cristian" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=50&lines=Hola%F0%9F%91%8B%2C+Soy+Cristian" alt="Hola 👋, soy Cristian" />
 
 # Sobre Mi 🫆
 
