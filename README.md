@@ -31,4 +31,6 @@ Me gusta entender cómo funciona todo, desde el equipo hasta la web, y personali
 
 ## 🚀 Proyectos
 
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
 | [**cliente-ejercicios**](https://github.com/CristianMainVS/cliente-ejercicios) | Prácticas de Desarrollo Web en Entorno Cliente (DAW): DOM, eventos y formularios. | HTML · CSS · JavaScript |
