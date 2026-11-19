@@ -31,7 +31,4 @@ Me gusta entender cómo funciona todo, desde el equipo hasta la web, y personali
 
 ## 🚀 Proyectos
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [**bot_telegram**](https://github.com/CristianMainVS/bot_telegram) | Bot personal para gestionar tareas con prioridad, notas por categoría y recordatorios automáticos. Datos separados por usuario y persistencia en SQLite. | Python · SQLite |
 | [**cliente-ejercicios**](https://github.com/CristianMainVS/cliente-ejercicios) | Prácticas de Desarrollo Web en Entorno Cliente (DAW): DOM, eventos y formularios. | HTML · CSS · JavaScript |
